@@ -1,0 +1,52 @@
+﻿@page
+@model EmployeeJob.Pages.Razor_Pages.Employee.RorDModel
+@{
+}
+
+<div>
+<form method="get">
+    <div class="input-group mb-3">
+            <input type="text" class="form-control" id="EmployeeFilter" name="EmployeeFilter" value="@Model.EmployeeFilter" placeholder="Filter Employee by name">
+        <div class="input-group-append">
+            <button class="btn btn-primary" type="submit">Filter</button>
+        </div>
+    </div>
+</form>
+<h1>Deleted Employees</h1>
+<div class="job-list">
+    <table class="table table-bordered table-striped" style="width:100%">
+        <thead>
+            <tr>
+                <th>Personal Image</th>
+                <th>Name</th>
+                <th>Birth Date</th>
+                <th>Employment Date</th>
+                <th>Phone Number</th>
+                <th>Governorate</th>
+                <th>Is Probation</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+             @foreach (var employee in Model.Employees)
+            {
+                <tr>
+                    <td> <img src="@Url.Content(employee.PersonalPhoto)" style="width: 100px;height: 100px;border-radius: 50%;object-fit: cover;" class="preview-image" alt="Image" /></td>
+                    <td>@employee.Name</td>
+                    <td>@employee.BirthDate.ToShortDateString()</td>
+                    <td>@employee.EmploymentDate.ToShortDateString()</td>
+                    <td>@employee.Phone</td>
+                    <td>@employee.Governorate</td>
+                    <td>@(employee.IsProbation ? "Yes" : "No")</td>
+                    <td>
+                        <a asp-page="./RorD" asp-route-EmployeeId="@employee.Eid" asp-route-type="1" class="btn btn-primary">Restore</a>
+                        <a asp-page="./RorD" class="btn btn-danger" asp-route-EmployeeId="@employee.Eid" asp-route-type="0">DELETE</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<a asp-page="./Index" class="btn btn-dark">Go Back</a>
+</div>
+

@@ -1,0 +1,41 @@
+﻿@page
+@model EmployeeJob.Pages.Razor_Pages.Job.RorDModel
+@{
+}
+
+
+
+
+<form method="get">
+    <div class="input-group mb-3">
+        <input type="text" class="form-control" id="jobFilter" name="jobFilter" value="@Model.jobFilter" placeholder="Filter jobs by name">
+        <div class="input-group-append">
+            <button class="btn btn-primary" type="submit">Filter</button>
+        </div>
+    </div>
+</form>
+
+<h1>Deleted Jobs</h1>
+<div class="job-list">
+    <table class="table table-bordered table-striped" style="width:100%">
+        <thead>
+            <tr>
+                <th>Job Name</th>
+                <th>Category</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        @foreach (var job in Model.Jobs)
+        {
+            <tr>
+                <td>@job.Name</td>
+                <td>@job.Category</td>
+                <td>
+                    <a asp-page="./RorD" asp-route-JobId="@job.JId" asp-route-type="1" class="btn btn-primary">Restore</a>
+                    <a asp-page="./RorD" class="btn btn-danger" asp-route-JobId="@job.JId" asp-route-type="0">DELETE</a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+<a asp-page="./Index" class="btn btn-dark">Go Back</a>

@@ -1,0 +1,30 @@
+﻿@page
+@using EmployeeJob.Pages.Models;
+@model EmployeeJob.Pages.Razor_Pages.Job.DeleteModel
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Edit this job </h1>
+
+<form method="post">
+    <div asp-validation-summary="All"></div>
+    <input type="hidden" asp-for="Job.JId" />
+    <div class="form-group">
+        <label asp-for="Job.Name"></label>
+        <input asp-for="Job.Name" class="form-control" readonly />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Job.Category"></label>
+        <select asp-for="Job.Category" class="form-control" readonly>
+            <option value="">Select a Category</option>
+            @foreach (var category in Enum.GetValues(typeof(Category)))
+            {
+                <option value="@category">@category</option>
+            }
+        </select>
+    </div>
+    <button type="submit" class="btn btn-danger">delete</button>
+    <a asp-page="./Index" class="btn btn-dark">Cancel</a>
+</form>

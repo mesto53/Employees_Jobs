@@ -1,0 +1,96 @@
+﻿@page
+@using EmployeeJob.Pages.Models;
+@model EmployeeJob.Pages.Razor_Pages.Employee.EditModel
+@{
+}
+<form method="post" enctype="multipart/form-data">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <input type="hidden" asp-for="Employee.Eid" />
+    <input type="hidden" asp-for="Employee.PersonalPhoto" />
+    <div class="form-group mb-3">
+        <label asp-for="Employee.Name"></label>
+        <input asp-for="Employee.Name" class="form-control" />
+        <span asp-validation-for="Employee.Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="Employee.BirthDate"></label>
+        <input asp-for="Employee.BirthDate" class="form-control" type="date" />
+        <span asp-validation-for="Employee.BirthDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="Employee.EmploymentDate"></label>
+        <input asp-for="Employee.EmploymentDate" class="form-control" type="date" />
+        <span asp-validation-for="Employee.EmploymentDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="Employee.Phone"></label>
+        <input asp-for="Employee.Phone" class="form-control" />
+        <span asp-validation-for="Employee.Phone" class="text-danger"></span>
+    </div>
+
+
+
+
+    <div class="form-group mb-3">
+        <label asp-for="Employee.Governorate"></label>
+        <select asp-for="Employee.Governorate" class="form-control">
+            <option value="">Select a Category</option>
+            @foreach (var Gov in Enum.GetValues(typeof(Governorate)))
+            {
+                <option value="@Gov">@Gov</option>
+            }
+        </select>
+        <span asp-validation-for="Employee.Governorate" class="text-danger"></span>
+    </div>
+
+
+
+    <div class="mb-3 mt-3 custom-file">
+        <div id="imagePreview">
+        </div>
+        <div class="mb-3 custom-file mt-4">
+            <input type="file" asp-for="Photo" class="form-file-input btn btn-primary" id="fileInput" />
+            <span asp-validation-for="Photo" class="text-danger"></span>
+        </div>
+
+        <script>
+            var fileInput = document.getElementById('fileInput');
+            var imagePreview = document.getElementById('imagePreview');
+
+            fileInput.addEventListener('change', function (event) {
+                var file = event.target.files[0];
+
+                if (file) {
+                    var reader = new FileReader();
+
+                    reader.onload = function (e) {
+                        var img = document.createElement('img');
+                        img.src = e.target.result;
+                        img.classList.add('preview-image');
+                        img.src = e.target.result;
+                        img.style.width = '100px';
+                        img.style.height = '100px';
+                        img.style.borderRadius = '50%';
+                        img.style.objectFit = 'cover';
+                        imagePreview.appendChild(img);
+                    };
+
+                    reader.readAsDataURL(file);
+                }
+            });
+        </script>
+    </div>
+
+
+    <div class="form-check mb-3">
+        <input asp-for="Employee.IsProbation" class="form-check-input" />
+        <label class="form-check-label" asp-for="Employee.IsProbation"></label>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+    <a asp-page="./Index" class="btn btn-dark">Cancel</a>
+</form>
+

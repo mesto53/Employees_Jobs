@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EmployeeJob.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EmployeeJob.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\Uploads\\71bb74e0-8979-432e-80ba-7a7a932e44ff_desktop-wallpaper-minimalist-light-minimalist.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\71bb74e0-8979-432e-80ba-7a7a932e44ff_desktop-wallpaper-minimalist-light-minimalist.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\Uploads\\722ba241-08ce-476e-88df-d5d9c15432f6_WhatsApp Image 2023-08-29 at 22.59.32.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\722ba241-08ce-476e-88df-d5d9c15432f6_WhatsApp Image 2023-08-29 at 22.59.32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\Uploads\\a35cf013-3513-4efa-9cf1-86f348d109c4_WhatsApp Image 2023-08-29 at 22.59.32.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\a35cf013-3513-4efa-9cf1-86f348d109c4_WhatsApp Image 2023-08-29 at 22.59.32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\Uploads\\acc8ff84-7029-4a0e-8cc2-54fd47c1662f_Screenshot 2023-08-06 195648.png",
+      "PackagePath": "staticwebassets\\Uploads\\acc8ff84-7029-4a0e-8cc2-54fd47c1662f_Screenshot 2023-08-06 195648.png"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\Uploads\\b24838ba-0bfe-4201-81ce-997c204c464f_desktop-wallpaper-minimalist-light-minimalist.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\b24838ba-0bfe-4201-81ce-997c204c464f_desktop-wallpaper-minimalist-light-minimalist.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\Uploads\\b75dd326-dd9c-427b-9ccf-415609b2b78e_desktop-wallpaper-minimalist-light-minimalist.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\b75dd326-dd9c-427b-9ccf-415609b2b78e_desktop-wallpaper-minimalist-light-minimalist.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\Uploads\\deaa42e0-52f2-4f4e-b4b3-8f9d7cca8362_mesto.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\deaa42e0-52f2-4f4e-b4b3-8f9d7cca8362_mesto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\Uploads\\ee4a243d-5b96-4748-87eb-79a5bde79a80_desktop-wallpaper-minimalist-light-minimalist.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ee4a243d-5b96-4748-87eb-79a5bde79a80_desktop-wallpaper-minimalist-light-minimalist.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mhmdm\\OneDrive\\Desktop\\auvia\\EmployeeJob\\EmployeeJob\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EmployeeJob.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EmployeeJob.props",
+      "PackagePath": "build\\EmployeeJob.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EmployeeJob.props",
+      "PackagePath": "buildMultiTargeting\\EmployeeJob.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EmployeeJob.props",
+      "PackagePath": "buildTransitive\\EmployeeJob.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
