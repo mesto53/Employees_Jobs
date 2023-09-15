@@ -17,6 +17,10 @@ namespace EmployeeJob.Pages.Services
         {
             return  this.Context.EmployeeJobs.Any(ej => ej.Jid == job.JId);
         }
+        public async Task<bool> Get_EJ_By_Eid(Employees employees)
+        {
+            return this.Context.EmployeeJobs.Any(ej => ej.Eid == employees.Eid);
+        }
 
         public async Task<List<string>> getAllEmployees_withId(int? JobId)
         {

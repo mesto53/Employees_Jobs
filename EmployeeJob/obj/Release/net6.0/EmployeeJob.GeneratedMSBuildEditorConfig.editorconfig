@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EmployeeJob
+build_property.RootNamespace = EmployeeJob
+build_property.ProjectDir = C:\Users\mhmdm\OneDrive\Desktop\auvia\EmployeeJob\EmployeeJob\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mhmdm\OneDrive\Desktop\auvia\EmployeeJob\EmployeeJob
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mhmdm/OneDrive/Desktop/auvia/EmployeeJob/EmployeeJob/Pages/Razor Pages/EmployeeJoob/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3IgUGFnZXNcRW1wbG95ZWVKb29iXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mhmdm/OneDrive/Desktop/auvia/EmployeeJob/EmployeeJob/Pages/Razor Pages/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3IgUGFnZXNcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mhmdm/OneDrive/Desktop/auvia/EmployeeJob/EmployeeJob/Pages/Razor Pages/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3IgUGFnZXNcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mhmdm/OneDrive/Desktop/auvia/EmployeeJob/EmployeeJob/Pages/Razor Pages/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3IgUGFnZXNcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mhmdm/OneDrive/Desktop/auvia/EmployeeJob/EmployeeJob/Pages/Razor Pages/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3IgUGFnZXNcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mhmdm/OneDrive/Desktop/auvia/EmployeeJob/EmployeeJob/Pages/Razor Pages/Employee/RorD.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3IgUGFnZXNcRW1wbG95ZWVcUm9yRC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mhmdm/OneDrive/Desktop/auvia/EmployeeJob/EmployeeJob/Pages/Razor Pages/Job/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3IgUGFnZXNcSm9iXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mhmdm/OneDrive/Desktop/auvia/EmployeeJob/EmployeeJob/Pages/Razor Pages/Job/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3IgUGFnZXNcSm9iXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mhmdm/OneDrive/Desktop/auvia/EmployeeJob/EmployeeJob/Pages/Razor Pages/Job/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3IgUGFnZXNcSm9iXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mhmdm/OneDrive/Desktop/auvia/EmployeeJob/EmployeeJob/Pages/Razor Pages/Job/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3IgUGFnZXNcSm9iXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mhmdm/OneDrive/Desktop/auvia/EmployeeJob/EmployeeJob/Pages/Razor Pages/Job/RorD.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3IgUGFnZXNcSm9iXFJvckQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mhmdm/OneDrive/Desktop/auvia/EmployeeJob/EmployeeJob/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mhmdm/OneDrive/Desktop/auvia/EmployeeJob/EmployeeJob/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mhmdm/OneDrive/Desktop/auvia/EmployeeJob/EmployeeJob/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mhmdm/OneDrive/Desktop/auvia/EmployeeJob/EmployeeJob/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-cet0yc9gku

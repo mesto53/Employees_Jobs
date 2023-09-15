@@ -11,9 +11,11 @@ namespace EmployeeJob.Pages.Razor_Pages.Employee
         public Employees employee { get; set; }
 
         public EmployeeService EmployeeService { get; set; }
-        public DeleteModel(EmployeeService employeeService) 
+        public EmployeeJobServices EmployeeJobServices { get; set; }
+        public DeleteModel(EmployeeService employeeService,EmployeeJobServices employeeJobServices) 
         {
            this.EmployeeService = employeeService; 
+            this.EmployeeJobServices = employeeJobServices;
         }
         public async Task OnGetAsync(int id)
         {
@@ -23,9 +25,20 @@ namespace EmployeeJob.Pages.Razor_Pages.Employee
         public async Task<IActionResult> OnPostAsync()
         {
             this.employee = await EmployeeService.getEmployee_ById(employee.Eid);
-            this.employee.IsDeleted = true;
-            await this.EmployeeService.UpdateEmployee(this.employee);
-            return RedirectToPage("./Index");
+            bool ej = await EmployeeJobServices.Get_EJ_By_Eid(employee);
+            if (ej == false)
+            {
+                this.employee.IsDeleted = true;
+                await this.EmployeeService.UpdateEmployee(this.employee);
+                return RedirectToPage("./Index");
+            }
+            else
+            {
+                ModelState.AddModelError("", "This job has Employees you can't delete");
+            }
+            return Page();
+
+            
            
         }
     }

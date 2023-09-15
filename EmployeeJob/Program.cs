@@ -16,6 +16,7 @@ builder.Services.AddDbContext<Context>(options => options.UseSqlServer(
     ));
 builder.Services.AddScoped<Jobs>();
 builder.Services.AddScoped<Employees>();
+builder.Services.AddScoped<EJ>();
 builder.Services.AddScoped<EmployeeJobServices>();
 builder.Services.AddScoped<EmployeeService>();
 builder.Services.AddScoped<JobService>();
